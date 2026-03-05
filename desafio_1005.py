@@ -28,3 +28,11 @@ MEDIA = (A * 3.5 + B * 7.5) / 11
 
 print(f"MEDIA = {MEDIA:.1f}")
 ```
+A = float(input())  # Lê o valor da primeira nota (A) como ponto flutuante
+B = float(input())  # Lê o valor da segunda nota (B) como ponto flutuante
+
+# Calcula a média ponderada
+MEDIA = (A * 3.5 + B * 7.5) / 11
+
+# Exibe a média formatada com uma casa decimal
+print(f"MEDIA = {MEDIA:.1f}")
