@@ -25,3 +25,9 @@ PROD = A * B
 
 print(f"PROD = {PROD}")
 ```
+A = int(input())  # Lê o primeiro valor inteiro
+B = int(input())  # Lê o segundo valor inteiro
+
+PROD = A * B  # Calcula o produto de A e B
+
+print(f"PROD = {PROD}")  # Exibe o produto no formato solicitado
