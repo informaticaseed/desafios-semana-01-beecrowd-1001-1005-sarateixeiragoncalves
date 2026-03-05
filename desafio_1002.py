@@ -28,3 +28,9 @@ area = pi * (raio ** 2)
 
 print(f"A={area:.4f}")
 ```
+raio = float(input())  # Lê o valor do raio como ponto flutuante
+
+pi = 3.14159  # Valor de π fornecido no enunciado do problema
+area = pi * (raio ** 2)  # Cálculo da área do círculo
+
+print(f"A={area:.4f}")  # Exibe a área formatada com 4 casas decimais
