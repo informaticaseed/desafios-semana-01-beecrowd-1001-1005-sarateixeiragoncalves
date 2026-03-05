@@ -25,3 +25,9 @@ SOMA = A + B
 
 print(f"SOMA = {SOMA}")
 ```
+A = int(input())  # Lê o primeiro valor inteiro
+B = int(input())  # Lê o segundo valor inteiro
+
+SOMA = A + B  # Calcula a soma de A e B
+
+print(f"SOMA = {SOMA}")  # Exibe a soma no formato solicitado
