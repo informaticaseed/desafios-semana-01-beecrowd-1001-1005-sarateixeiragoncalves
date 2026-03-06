@@ -16,14 +16,7 @@ caso contrário seu programa apresentará a mensagem: "Presentation Error".
 
 # Escreva sua solução abaixo
 
-```python
-A = int(input())
-B = int(input())
 
-PROD = A * B
-
-print(f"PROD = {PROD}")
-```
 A = int(input())  # Lê o primeiro valor inteiro
 B = int(input())  # Lê o segundo valor inteiro
 
