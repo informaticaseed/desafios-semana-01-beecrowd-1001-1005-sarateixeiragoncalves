@@ -19,14 +19,6 @@ exemplo abaixo, com 4 casas após o ponto decimal. Utilize variáveis de dupla p
 
 # Escreva sua solução abaixo
 
-```python
-raio = float(input())
-
-pi = 3.14159
-area = pi * (raio ** 2)
-
-print(f"A={area:.4f}")
-```
 raio = float(input())  # Lê o valor do raio como ponto flutuante
 
 pi = 3.14159  # Valor de π fornecido no enunciado do problema
