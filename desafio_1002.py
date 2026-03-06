@@ -18,7 +18,6 @@ exemplo abaixo, com 4 casas após o ponto decimal. Utilize variáveis de dupla p
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1002
 
 # Escreva sua solução abaixo
-Aqui está a solução em **Python** para o problema **Beecrowd 1002 – Área do Círculo**:
 
 ```python
 raio = float(input())
