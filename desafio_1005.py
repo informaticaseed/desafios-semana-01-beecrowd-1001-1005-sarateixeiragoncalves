@@ -18,7 +18,6 @@ de imprimir o fim de linha após o resultado, caso contrário, você receberá
 # Link do problema: https://judge.beecrowd.com/pt/problems/view/1005
 
 # Escreva sua solução abaixo
-Aqui está a solução em **Python** para o problema **Beecrowd 1005 – Média 1**:
 
 ```python id="k2m4pz"
 A = float(input())
