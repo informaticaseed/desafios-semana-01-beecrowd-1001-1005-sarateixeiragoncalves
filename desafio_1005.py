@@ -19,14 +19,6 @@ de imprimir o fim de linha após o resultado, caso contrário, você receberá
 
 # Escreva sua solução abaixo
 
-```python id="k2m4pz"
-A = float(input())
-B = float(input())
-
-MEDIA = (A * 3.5 + B * 7.5) / 11
-
-print(f"MEDIA = {MEDIA:.1f}")
-```
 A = float(input())  # Lê o valor da primeira nota (A) como ponto flutuante
 B = float(input())  # Lê o valor da segunda nota (B) como ponto flutuante
 
